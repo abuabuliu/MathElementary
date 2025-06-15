@@ -20,3 +20,7 @@
 進度 50-75%: 金色花環 rosette
 進度 75-100%: 獎盃 trophy.fill
 畢業: 皇冠 crown.fill
+
+聯絡我們
+如有任何疑問，請透過以下方式聯繫我們：
+📧 信箱：abuabuliu@gmail.com
